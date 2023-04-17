@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ea197ca-b407-44d3-96ec-29be6e150e68" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../assignment_1/.idea/assignment_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_1/.idea/assignment_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_1/data/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_1/data/db.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_1/sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_1/sign-in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_1/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_1/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_3/.idea/dataSources/a70c4a6f-e5c9-4068-8f71-e9a716bcfbd0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_3/.idea/dataSources/a70c4a6f-e5c9-4068-8f71-e9a716bcfbd0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_3/.idea/dataSources/a70c4a6f-e5c9-4068-8f71-e9a716bcfbd0/storage_v2/_src_/database/bookstore.mCfKeQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_3/.idea/dataSources/a70c4a6f-e5c9-4068-8f71-e9a716bcfbd0/storage_v2/_src_/database/bookstore.mCfKeQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_3/.idea/dataSources/a70c4a6f-e5c9-4068-8f71-e9a716bcfbd0/storage_v2/_src_/database/bookstore.mCfKeQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_3/.idea/dataSources/a70c4a6f-e5c9-4068-8f71-e9a716bcfbd0/storage_v2/_src_/database/bookstore.mCfKeQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_3/.idea/dataSources/a70c4a6f-e5c9-4068-8f71-e9a716bcfbd0/storage_v2/_src_/database/bookstore.mCfKeQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_3/.idea/dataSources/a70c4a6f-e5c9-4068-8f71-e9a716bcfbd0/storage_v2/_src_/database/bookstore.mCfKeQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_3/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_3/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +44,7 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/User/GolandProjects/final_project",
+    "last_opened_file_path": "C:/Study/Projects/Zhons/Go_Final_Project",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)"
   },
@@ -95,6 +83,29 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
